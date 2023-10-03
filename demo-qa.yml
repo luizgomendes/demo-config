@@ -1,2 +1,5 @@
 build:
   version: "2.0_qa"
+
+demo:
+  message: "Demo environment - QA"

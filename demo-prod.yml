@@ -1,2 +1,5 @@
 build:
   version: "3.1_prod"
+
+demo:
+  message: "Demo environment - Prod"
