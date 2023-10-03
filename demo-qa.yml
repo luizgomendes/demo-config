@@ -2,4 +2,4 @@ build:
   version: "2.0_qa"
 
 demo:
-  message: "Demo environment - QA"
+  message: "{cipher}d8079b80e5c48ea0352b76714c31d305ca647679455a4329c49f3ececc69ae42c17ae7ab72c716aeff98c64625020f49"
